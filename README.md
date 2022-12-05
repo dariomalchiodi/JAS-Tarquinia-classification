@@ -10,9 +10,6 @@ Python 3.8 is used, as well as some standard libraries described in
 `requirements.txt`. The same file can be used in order to create a pip
 virtual environment to be used for all experiments.
 
-Data, available upon request to the authors, should be placed in the `data`
-folder.
-
 The `experiments/JAS` folder contains all scripts and notebooks to be run
 to replicate experiments:
 - [`experiments-with-dim-reduction.py`](experiments/JAS/experiments-with-dim-reduction.py) trains all classifiers described in
